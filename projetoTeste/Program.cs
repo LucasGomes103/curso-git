@@ -11,7 +11,7 @@ namespace projetoTeste
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Eae Mundo!");
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia!");
             Console.WriteLine("Tchau!");
